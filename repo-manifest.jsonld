@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/MilesCranmer/PySR/commit/1fd411441da9e66a10b9a88f9de92f6a91d1361b",
       "git:hexsha": "1fd411441da9e66a10b9a88f9de92f6a91d1361b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/MilesCranmer/PySR/commit/8c58028608491c23086171ff94d17d2f3ed1384d",
